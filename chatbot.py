@@ -122,7 +122,7 @@ def chatbot_response(user_input):
         return solve_math(user_input)
 
     else:
-        return "I’m not sure how to respond to that."
+        return "I am not sure how to respond to that."
 
 print("Hello! I am ChatBot.")
 print("Type 'bye' to end the chat.")
